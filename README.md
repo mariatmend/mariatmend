@@ -8,7 +8,7 @@ My name is Maria Torrente, I'm a Junior Software Engineer at
 
 *  👩🏽‍⚕️ 🧑🏽‍💻 I'm currently learning how to make Healthcare easier and accessible to everyone, through Telemedicine.
 
-*  Fun Facts: I love playing soccer⚽️, listening to jazz/classical 🎻 music and tasting any weird distilled or fermented drink🍷.
+*  Fun Facts: I love playing soccer⚽️, listening to jazz/classical 🎻 music and tasting any new weird distilled, or fermented drink🍷.
 
 ---
 ### Contact 🌐
