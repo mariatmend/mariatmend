@@ -1,6 +1,6 @@
 ### Hello, humans! 👋 
 ---
-My name is Maria Torrente, I'm a Junior Software Engineer at 
+My name is Maria Torrente, I'm a Software Engineer at 
 <img src="https://www.mend.com/wp-content/uploads/2020/08/logo.png" alt="drawing" width="70"/> .
 
 ---
